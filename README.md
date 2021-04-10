@@ -14,3 +14,17 @@ module.exports = {
 };
 
 ```
+
+- vue3 ts
+```bash
+yarn add eslint-config-jungai-vue3-ts -D
+npx install-peerdeps --dev eslint-config-jungai-vue3-ts
+```
+
+```javascript
+// .eslintrc.js
+module.exports = {
+  extends: ['jungai-vue3-ts'],
+};
+
+```
