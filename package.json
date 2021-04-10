@@ -6,7 +6,7 @@
   "license": "MIT",
 	"scripts": {
 		"lint": "eslint . --ext .js",
-		"release": "lerna publish ----conventional-commits"
+		"release": "lerna publish --conventional-commits"
 	},
   "devDependencies": {
 		"@jungai/eslint-config": "*",
