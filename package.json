@@ -5,6 +5,7 @@
   "author": "jungai <juworaphol125@gmail.com>",
   "license": "MIT",
 	"scripts": {
+		"lint": "eslint . --ext .js",
 		"release": "lerna publish ----conventional-commits"
 	},
   "devDependencies": {
