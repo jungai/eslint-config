@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jungai-vue3-ts",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "main": "index.js",
   "author": "jungai",
   "license": "MIT",
